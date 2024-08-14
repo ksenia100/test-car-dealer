@@ -23,7 +23,7 @@ Ensure you have the following installed:
 
 ```bash
 git clone https://github.com/ksenia100/test-car-dealer.git
-cd car-dealer-app
+cd test-car-dealer
 ```
 
 ### 2. Install Dependencies
