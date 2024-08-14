@@ -22,7 +22,7 @@ Ensure you have the following installed:
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/test-car-dealer.git
+git clone https://github.com/ksenia100/test-car-dealer.git
 cd car-dealer-app
 ```
 
